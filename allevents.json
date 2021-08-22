@@ -1,1 +1,31 @@
-
+{
+"events": [
+  {
+          id: 4506701,
+          title: 'Linus Accra Meeting',
+          description: 'A meet-up group for open source software discussions',
+          location: 'Accra, Ridge',
+          date: 'January 28, 2022',
+          time: '15:00',
+          organizer: 'Bright Morkli'
+        },
+  {
+          id: 4506702,
+          title: 'Entrepreneurs Lane',
+          description: 'A common place for innovators and co-creators',
+          location: 'Accra, Ridge',
+          date: 'January 28, 2022',
+          time: '15:00',
+          organizer: 'Bright Morkli'
+        },
+  {
+          id: 4506703,
+          title: 'Bitcoin - Redefining Money',
+          description: 'How technology is influencing money as we know it',
+          location: 'Accra, Ridge',
+          date: 'January 28, 2022',
+          time: '15:00',
+          organizer: 'Bright Morkli'
+        },
+]
+}
